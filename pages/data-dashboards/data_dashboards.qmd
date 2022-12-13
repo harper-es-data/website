@@ -24,6 +24,6 @@ title: "Data resources"
 <br>
 <br>
 
-![](../../img/HDS-logo.png){fig-alt="Harper Data Science" width="50"} The  ES Data Group supports the research, teaching and Future Farm communities at [Harper Adams University](https://www.harper-adams.ac.uk/ "Harper Adams University") 
+![](../../img/hds-logo.png){fig-alt="Harper Data Science" width="50"} The  ES Data Group supports the research, teaching and Future Farm communities at [Harper Adams University](https://www.harper-adams.ac.uk/ "Harper Adams University") 
 
 Contact: [Ed Harris](https://www.harper-adams.ac.uk/general/staff/profile/201620/Edwin-Harris/ "Ed's Faculty page")
