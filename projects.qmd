@@ -1,0 +1,42 @@
+---
+title: "Projects"
+---
+
+<br>
+
+<center>
+
+![](img/wheat.png){fig-alt="Harper ES Data group" width="500"}
+
+</center>
+
+<br>
+
+**Active projects**
+
+![](img/data-weather.png){fig-alt="Harper ES Data group" width="100"} [**2022 Future Farm data dashboards**](pages/data-dashboards/data_dashboards.html)
+The Harper Farm Database: a platform and dashboard to showcase best practice for all Farm Data stakeholders 
+
+![](pages/digital-twin/img/dashboard.png){fig-alt="Harper ES Data group" width="100"} **2022 A Future Farm digital twin** 
+
+Harper Farm Digital Twin crop system model: towards data-informed future farming with DSSAT and Shiny :: [Dashboard example](pages/digital-twin/dashboard-example/plant-dashboard.html)
+
+<br>
+
+**Completed projects**
+
+![](pages/data-survey/img/Q5-farm-data-use.png){fig-alt="Harper ES Data group" width="100"} **2021 The Great Data Users Survey (the Harper Farm Data Mapping Project)** 
+
+Engage with stakeholders of Harper Farm data (farm management, AgreCalc users, Finance, teaching/students, research) to define essential baseline data requirements and uses. :: [Survey summary final report](pages/data-survey/data-survey-report.pdf) :: [Project bid](pages/data-survey/Data group QR submission 2021 - BID.docx)
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![](img/HDS-logo.png){fig-alt="Harper Data Science" width="50"} The  ES Data Group supports the research, teaching and Future Farm communities at [Harper Adams University](https://www.harper-adams.ac.uk/ "Harper Adams University") 
+
+Contact: [Ed Harris](https://www.harper-adams.ac.uk/general/staff/profile/201620/Edwin-Harris/ "Ed's Faculty page")

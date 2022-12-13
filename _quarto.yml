@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "website"
+  favicon: "img/es-data-logo.png"
+  sidebar:
+    logo: "img/es-data-logo.png"
+    style: "docked"
+    search: true
+    contents: 
+      - section: "Information"
+        contents: 
+        - about.qmd
+        - projects.qmd
+        - activities.qmd
+
+format:
+  html:
+    highlight-style: a11y
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual

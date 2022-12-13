@@ -1,0 +1,23 @@
+---
+title: "ES Data Group"
+---
+
+<br>
+
+<center>
+
+![](img/cowhay.png){fig-alt="Harper ES Data group" width="500"}
+
+**The ES Data Group** (Environmental Sustainability Data and Systems Boundaries Group) promotes open data practice for the Harper Adams Future Farm for research and teaching activities at [Harper Adams University](https://www.harper-adams.ac.uk/), and beyond.
+
+</center>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![](img/HDS-logo.png){fig-alt="Harper Data Science" width="50"} The  ES Data Group supports the research, teaching and Future Farm communities at [Harper Adams University](https://www.harper-adams.ac.uk/ "Harper Adams University") 
+
+Contact: [Ed Harris](https://www.harper-adams.ac.uk/general/staff/profile/201620/Edwin-Harris/ "Ed's Faculty page")

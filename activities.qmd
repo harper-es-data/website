@@ -1,0 +1,29 @@
+---
+title: "Activities"
+---
+
+<br>
+
+<center>
+
+![](img/sheep.png){fig-alt="Harper ES Data group" width="500"}
+
+</center>
+
+<br>
+
+2022-12-13 Presentation at the HAU ES sustainability conference
+
+2022-12-08 Field trip to tour Rothamsted Research North Wycke Farm
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![](img/HDS-logo.png){fig-alt="Harper Data Science" width="50"} The  ES Data Group supports the research, teaching and Future Farm communities at [Harper Adams University](https://www.harper-adams.ac.uk/ "Harper Adams University") 
+
+Contact: [Ed Harris](https://www.harper-adams.ac.uk/general/staff/profile/201620/Edwin-Harris/ "Ed's Faculty page")

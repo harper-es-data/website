@@ -1,0 +1,29 @@
+---
+title: "Data resources"
+---
+
+<br>
+
+<center>
+
+
+
+</center>
+
+<br>
+
+![](../../img/calf-feed.png){fig-alt="Weather data example" width="100"} **Calf feeding experiment (example)** :: [dashboard](https://w-ed-harris.shinyapps.io/cow-feed/) :: [data file](pages/data-dashboards/feed.data.xlsx)
+
+![](../../img/data-weather.png){fig-alt="Harper ES Data group" width="100"} **Future Farm Weather Data (example)** :: [dashboard](https://w-ed-harris.shinyapps.io/weather-example/) :: [data file](pages/data-dashboards/harper-weather.csv)
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![](../../img/HDS-logo.png){fig-alt="Harper Data Science" width="50"} The  ES Data Group supports the research, teaching and Future Farm communities at [Harper Adams University](https://www.harper-adams.ac.uk/ "Harper Adams University") 
+
+Contact: [Ed Harris](https://www.harper-adams.ac.uk/general/staff/profile/201620/Edwin-Harris/ "Ed's Faculty page")
